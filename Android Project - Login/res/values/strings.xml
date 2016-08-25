@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">UTS_SitiHusnulKhotimah_06TPLEI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_tab_view">TabView</string>
+    <string name="title_activity_tab_list_view">TabListView</string>
+    <string name="title_activity_dipilih">Dipilih</string>
+    <string name="title_activity_tab_image">TabImage</string>
+
+</resources>
